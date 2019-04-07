@@ -4,7 +4,7 @@
 * Node, NPM & MongoDB
 
 ## Installation
-* Clone this repo: ``` git clone https://github.com/bhanushalimahesh3/node-rest-api-jwt.git ```
+* Clone this repo: ``` git clone https://github.com/francknoelkouassi/node-rest-api-ecommerce-jwt ```
 * Install dependecies: ``` npm install ```
 * Install nodemon: ``` npm install nodemon -g ```
 
